@@ -1,4 +1,4 @@
-# Project Name: Simple Login System
+# Project Name: Simple Login with Signup Webpage
 
 ## Description
 
